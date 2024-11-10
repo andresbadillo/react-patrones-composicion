@@ -1,8 +1,9 @@
 import Tab from "./Tab";
+import Tabs from "./Tabs";
 
 export const CompoundComponents = () => {
   return (
-    <div>
+    <Tabs>
       <Tab label="Tigre">
         🐯
       </Tab>
@@ -12,6 +13,6 @@ export const CompoundComponents = () => {
       <Tab label="Girafa">
         🦒
       </Tab>
-    </div>
+    </Tabs>
   );
 };
