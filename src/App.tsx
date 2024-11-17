@@ -108,8 +108,8 @@ function App() {
       </section>
       <footer>
         <p>
-          <span>Made with 💚 and 👩🏻‍💻</span>
-          <span>by Teffcode and Platzi</span>
+          <span>Made with ❤️</span>
+          <span>by <a href="https://www.andresbadillo.co/" target="blank">andresbadillo.co</a></span>
         </p>
       </footer>
     </>
